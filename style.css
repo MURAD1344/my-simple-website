@@ -1,0 +1,6 @@
+div{
+    background-color: aquamarine;
+    border: 10px solid peru;
+    border-radius: 10px 20px 30px 40px;
+    padding: 10px;
+}
